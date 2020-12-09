@@ -1,0 +1,17 @@
+Instruções
+
+1. Crie o banco de dados mysql com o nome thiago_bastos_1620470400080
+
+2. Importe o arquivo thiago_bastos_1620470400080.sql (Pasta Database)
+
+3. Com o servidor Web e o mysql rodando, abra: http://localhost/vendas
+
+LOGIN COMO CLIENTE
+
+login: marciano@faeterj-rio.edu.br
+senha: 123456
+
+LOGIN PAINEL ADMIN
+
+user: admin
+pass: admin123
